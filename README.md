@@ -1,9 +1,9 @@
 # Tensorflow Study
 
-A series of lessons i made as i studied Tensorflow.  They are meant to progress one after another and gently introduce new concepts.
+A series of lessons made to help beginners study Tensorflow.  They progress one after another and gently introduce new concepts.
 Blog posts discussing these lessons can be found [HERE](http://gooorack.com)
 
-These are designed for beginners with a basic knowledge of python.
+These are designed for people with a basic knowledge of python.
 
 ## Tutorial index
 
