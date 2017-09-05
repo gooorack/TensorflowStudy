@@ -14,5 +14,6 @@ These are designed for people with a basic knowledge of python.
 - 5 Variables ([notebook](https://github.com/gooorack/TensorflowStudy/blob/master/5_Variables.ipynb))
 - 6 Training with Linear Regression ([notebook](https://github.com/gooorack/TensorflowStudy/blob/master/6_TrainingWithLinearRegression.ipynb))
 - 7 First Neural Network ([notebook](https://github.com/gooorack/TensorflowStudy/blob/master/7_Basic_Neural_Network.ipynb))
-
+- 8 MNIST 1 ([notebook](https://github.com/gooorack/TensorflowStudy/blob/master/8_MNIST_1.ipynb))
+- 9 MNIST 2 ([notebook](https://github.com/gooorack/TensorflowStudy/blob/master/9_MNIST_2.ipynb))
 
